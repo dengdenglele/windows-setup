@@ -33,3 +33,6 @@ The system will reboot and Windows setup will allow a setup without internet con
 ```Powershell
 winget search "lenovo commercial vantage"
 ```
+
+## Update winget itself
+- [follow these instructions](https://wrye.dev/posts/upgrade-winget-itself/)
