@@ -9,6 +9,9 @@ OOBE\BYPASSNRO
 
 The system will reboot and Windows setup will allow a setup without internet connection
 
+## Update winget itself
+- [follow these instructions](https://wrye.dev/posts/upgrade-winget-itself/)
+  
 ## [Debloat with a script from Raphire](https://github.com/Raphire/Win11Debloat)
 
 ```PowerShell
@@ -31,8 +34,6 @@ The system will reboot and Windows setup will allow a setup without internet con
 - Less intrusive
 
 ```Powershell
-winget search "lenovo commercial vantage"
+winget install "lenovo commercial vantage"
 ```
 
-## Update winget itself
-- [follow these instructions](https://wrye.dev/posts/upgrade-winget-itself/)
